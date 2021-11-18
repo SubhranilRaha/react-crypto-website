@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-crypto-website/static/css/main.e310957e.chunk.css",
+    "main.js": "/react-crypto-website/static/js/main.2752a984.chunk.js",
+    "main.js.map": "/react-crypto-website/static/js/main.2752a984.chunk.js.map",
+    "runtime-main.js": "/react-crypto-website/static/js/runtime-main.1596aca5.js",
+    "runtime-main.js.map": "/react-crypto-website/static/js/runtime-main.1596aca5.js.map",
+    "static/css/2.383c0125.chunk.css": "/react-crypto-website/static/css/2.383c0125.chunk.css",
+    "static/js/2.9e69eb9a.chunk.js": "/react-crypto-website/static/js/2.9e69eb9a.chunk.js",
+    "static/js/2.9e69eb9a.chunk.js.map": "/react-crypto-website/static/js/2.9e69eb9a.chunk.js.map",
+    "index.html": "/react-crypto-website/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/react-crypto-website/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.e310957e.chunk.css.map": "/react-crypto-website/static/css/main.e310957e.chunk.css.map",
+    "static/js/2.9e69eb9a.chunk.js.LICENSE.txt": "/react-crypto-website/static/js/2.9e69eb9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1596aca5.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.9e69eb9a.chunk.js",
+    "static/css/main.e310957e.chunk.css",
+    "static/js/main.2752a984.chunk.js"
+  ]
+}
